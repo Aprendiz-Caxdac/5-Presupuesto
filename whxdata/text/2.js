@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Permisos de Usuario"]],"3":[[" ","En esta ventana escogemos el usuario y le asignamos de acuerdo al menú los permisos de los objetos de la ventana a lo que tiene acceso."]],"4":[[" ","Permisos de Usuario"]],"id":"2"})
