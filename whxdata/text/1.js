@@ -1,1 +1,0 @@
-rh._.exports({"0":[[" ","Reclasificaciones – Adiciones Presupuestales"]],"2":[[" ","Reclasificaciones – Adiciones Presupuestales"]],"3":[[" ","Se asignan permisos a usuarios de la aplicación para que puedan realizar reclasificaciones presupuestales y/o adiciones."]],"id":"1"})

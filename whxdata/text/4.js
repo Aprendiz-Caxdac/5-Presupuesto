@@ -1,1 +1,0 @@
-rh._.exports({"0":[[" ","Usuarios"]],"3":[[" ","Esta ventana permite la administración de los usuarios de la aplicación con el login del usuario, descripción, tipo de usuarios es el rol que pueda desempeñar dentro de la aplicación y si está o no activo."]],"4":[[" ","Usuarios"]],"id":"4"})

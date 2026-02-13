@@ -1,1 +1,0 @@
-rh._.exports({"0":[[" ","Tablas Básicas"]],"1":[[" ","Tablas Básicas"]],"3":[[" ","Estas tablas deben estar diligenciadas antes de iniciar la utilización de este aplicativo, por que corresponden a las llaves primarias de la información presupuestal:"]],"id":"3"})

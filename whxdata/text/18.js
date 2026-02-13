@@ -1,1 +1,0 @@
-rh._.exports({"0":[[" ","Módulos que Integran la Aplicación"]],"1":[[" ","Módulos que Integran la Aplicación"]],"3":[[" ","Junta Directiva"," ","Haga clic aquí para ver esta página en contexto"],[" ","En este parte encontrará los módulos que contiene la aplicación, que se dividen en tres: Tablas Básicas, Reportes y Procesos."]],"id":"18"})
